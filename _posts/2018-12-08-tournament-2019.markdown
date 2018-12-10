@@ -4,7 +4,6 @@ title:  "2019 Gananda Bandits Indoor Soccer Tournament"
 date:   2018-12-08 17:56:17 -0500
 categories: bandits tournament
 ---
-[Tournament Packet]({{ site.url }}download/Gananda Soccer Tournament Packet 2019.pdf)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
