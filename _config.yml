@@ -17,8 +17,6 @@ title: Gananda Bandits Soccer Club
 email: banditsvolunteers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Gananda Bandits are a travel soccer club in the Rochester District Youth Soccer League.
-  Visit our full <a href=http://www.ganandabandits.com>website</a> for club information and
-  registration.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BanditsGananda
