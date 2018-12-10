@@ -4,11 +4,37 @@ title:  "2019 Gananda Bandits Indoor Soccer Tournament"
 date:   2018-12-08 17:56:17 -0500
 categories: bandits tournament
 ---
-[Tournament Packet]({{ site.url }}/download/Gananda Soccer Tournament Packet 2019.pdf)
+The Gananda Bandits will be hosting the 14th Annual Indoor Soccer Tournament on **Saturday March 2nd and Sunday March 3rd**. The round robin tournament will take place at the Ruben A. Cirillo High School and Gananda Middle School. An entry fee and roster is due by February 22, 2019. All teams are guaranteed three games. All players winning championship games will receive tourney t-shirts.
 
+Refer to the [Tournament Packet]({{ site.url }}/download/Gananda Soccer Tournament Packet 2019.pdf) here for complete tournament information, registration and payment instructions.
+
+Payments via PayPal can be made using the link below. Instructions for check payment are included in the tournament packet.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="AH8FFTM5DPB7S" />
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
+**Expanded Age Brackets:**
+- U15 or younger - 4 v 4 plus keeper (Middle School)
+- U14 or younger - 4 v 4 plus keeper (Middle School)
+- U13 or younger - 4 v 4 plus keeper (Middle School)
+- U12 or younger - 5 v 5 plus keeper (High School)
+- U11 or younger - 5 v 5 plus keeper (High School)
+- U10 or younger - 5 v 5 plus keeper (High School)
+
+**Schedule:**
+- Boys - Saturday
+- Girls - Sunday
+
+**Tournament Addresses:**
+
+Ruben A Cirillo High School
+3195 Wiedrick Rd
+Walworth, NY 14568
+(please enter in the back of the school)
+
+Gananda Middle School
+1500 Dayspring Ridge
+Walworth, NY 14568
