@@ -16,6 +16,7 @@ Payments via PayPal can be made using the link below. Instructions for check pay
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+
 **Expanded Age Brackets:**
 - U15 or younger - 4 v 4 plus keeper (Middle School)
 - U14 or younger - 4 v 4 plus keeper (Middle School)
@@ -30,11 +31,11 @@ Payments via PayPal can be made using the link below. Instructions for check pay
 
 **Tournament Addresses:**
 
-Ruben A Cirillo High School
-3195 Wiedrick Rd
-Walworth, NY 14568
-(please enter in the back of the school)
+> Ruben A Cirillo High School
+> 3195 Wiedrick Rd
+> Walworth, NY 14568
+> (please enter in the back of the school)
 
-Gananda Middle School
-1500 Dayspring Ridge
-Walworth, NY 14568
+> Gananda Middle School
+> 1500 Dayspring Ridge
+> Walworth, NY 14568
