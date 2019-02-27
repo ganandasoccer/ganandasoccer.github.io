@@ -27,7 +27,7 @@ Payments via PayPal can be made using the link below. Please include team name a
 - U10 or younger - 5 v 5 plus keeper (High School)
 
 **Schedule:**
-- Boys - Saturday
+- [Boys - Saturday (PDF)]({{ site.url }}/download/2019 Tournament Saturday Schedule Boys Rev-3.pdf)
 - Girls - Sunday
 
 **Tournament Addresses:**
