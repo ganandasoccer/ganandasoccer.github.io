@@ -19,12 +19,12 @@ Payments via PayPal can be made using the link below. Please include team name a
 <br/>
 
 **Expanded Age Brackets:**
-- U15 or younger - 4 v 4 plus keeper (Middle School)
-- U14 or younger - 4 v 4 plus keeper (Middle School)
-- U13 or younger - 4 v 4 plus keeper (Middle School)
-- U12 or younger - 5 v 5 plus keeper (High School)
-- U11 or younger - 5 v 5 plus keeper (High School)
-- U10 or younger - 5 v 5 plus keeper (High School)
+- U15 or younger - 4 v 4 plus keeper
+- U14 or younger - 4 v 4 plus keeper
+- U13 or younger - 4 v 4 plus keeper
+- U12 or younger - 5 v 5 plus keeper
+- U11 or younger - 5 v 5 plus keeper
+- U10 or younger - 5 v 5 plus keeper
 
 **Schedule:**
 - [Boys - Saturday (PDF)]({{ site.url }}/download/2019 Tournament Saturday Schedule Boys Rev-3.pdf)
