@@ -28,7 +28,7 @@ Payments via PayPal can be made using the link below. Please include team name a
 
 **Schedule:**
 - [Boys - Saturday (PDF)]({{ site.url }}/download/2019 Tournament Saturday Schedule Boys Rev-3.pdf)
-- Girls - Sunday
+- [Girls - Sunday (PDF)]({{ site.url }}/download/2019 Tournament Sunday Schedule Girls.pdf)
 
 **Tournament Addresses:**
 
